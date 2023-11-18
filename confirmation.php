@@ -1,8 +1,8 @@
 <?php
 // Connexion à la base de données
 $servername = "localhost";
-$username = "username";
-$password = "password";
+$username = "root";
+$password = " ";
 $dbname = "ecom1_project";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
