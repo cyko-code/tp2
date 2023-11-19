@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = " ";
-$dbname = "ecom1_project";
+$dbname = "ecom1_tp2";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
